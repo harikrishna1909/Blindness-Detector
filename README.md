@@ -7,8 +7,11 @@ The blindness detection project uses computer vision to identify signs of blindn
 
 BLINDNESS DETECTION.......
 ----->Diabetic retinopathy is a diabetes complication that affects eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina). At first, diabetic retinopathy may cause no symptoms or only mild vision problems.
+
 -------->Diabetic retinopathy is caused by high blood sugar due to diabetes. Over time, having too much sugar in your blood can damage your retina — the part of your eye that detects light and sends signals to your brain through a nerve in the back of your eye (optic nerve).
+
 -------->Diabetes damages blood vessels all over the body. The damage to your eyes starts when sugar blocks the tiny blood vessels that go to your retina, causing them to leak fluid or bleed. To make up for these blocked blood vessels, your eyes then grow new blood vessels that don’t work well. These new blood vessels can leak or bleed easily.
+
 ![download](https://github.com/06RAVI06/BLINDNESS_DETECTION/assets/107626246/68e7e624-1e50-4422-8495-453887da13d3)
 
 
@@ -30,6 +33,7 @@ All of the images are already saved into their respective folders according to t
 3 - Severe
 4 - Proliferate_DR
 The dataset contains an export.pkl file which is a ResNet34 model trained on the dataset for 20 epochs using the FastAI library.
+
 ![download](https://github.com/06RAVI06/BLINDNESS_DETECTION/assets/107626246/e2b7fba1-0bac-4c64-9cd2-2d85b95aa67c)
 
 
