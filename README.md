@@ -1,11 +1,16 @@
 # Blindness-Detector
 The blindness detection project uses computer vision to identify signs of blindness or visual impairment. It analyzes eye images or video streams to detect abnormalities, aiding in early diagnosis and treatment of visual impairments for improved eye care.
 
-# BLINDNESS_DETECTION
+Datasets:-
+1)https://www.kaggle.com/c/aptos2019-blindness-detection/data
+
+2)https://www.kaggle.com/c/diabetic-retinopathy-detection/data
+
  In this project, I developed a blindness detection model using machine learning techniques. Used a dataset of healthy and blind eye images, preprocessed it, and trained a convolutional neural network. Achieved high accuracy in identifying blindness, enabling early detection and intervention for improved outcomes.
 
 
 BLINDNESS DETECTION.......
+
 ----->Diabetic retinopathy is a diabetes complication that affects eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina). At first, diabetic retinopathy may cause no symptoms or only mild vision problems.
 
 -------->Diabetic retinopathy is caused by high blood sugar due to diabetes. Over time, having too much sugar in your blood can damage your retina — the part of your eye that detects light and sends signals to your brain through a nerve in the back of your eye (optic nerve).
