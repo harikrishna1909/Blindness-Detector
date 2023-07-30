@@ -2,6 +2,7 @@
 The blindness detection project uses computer vision to identify signs of blindness or visual impairment. It analyzes eye images or video streams to detect abnormalities, aiding in early diagnosis and treatment of visual impairments for improved eye care.
 
 Datasets:-
+
 1)https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 2)https://www.kaggle.com/c/diabetic-retinopathy-detection/data
